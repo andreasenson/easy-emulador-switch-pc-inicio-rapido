@@ -163,6 +163,6 @@ Borra la carpeta. No escribe en el registro ni deja servicios en ejecución.
 
 ---
 
-*Emulador de Switch para PC · Actualizado 2026-10-30 · Compartido bajo licencia MIT*
+*Emulador de Switch para PC · Actualizado 2026-10-31 · Compartido bajo licencia MIT*
 
-<!-- updated 2026-10-30 -->
+<!-- updated 2026-10-31 -->
